@@ -7,5 +7,15 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "next-app": {
+      "tags": []
+    },
+    "next-app-e2e": {
+      "tags": []
+    },
+    "nest-app": {
+      "tags": []
+    }
+  }
 }
